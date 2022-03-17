@@ -29,5 +29,14 @@ My plan is to implement the .NET code to turn the light on the Pi on when I am i
 
 ## Tools
 - [Raspberry Pi 3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
-- Visual Studio 2022
+- Visual Studio 2019
 - Github (source control and work tracking)
+
+## Resources
+- [Setting up a Raspberry Pi 3](https://docs.microsoft.com/en-us/windows/iot-core/tutorials/rpi)
+- [A .NET Core library for interacting with Blinkt!](https://gitlab.com/ferrodev/blinkt-dotnet)
+- [Azure IoT Central documentation](https://docs.microsoft.com/en-us/azure/iot-central/#step-by-step-tutorials)
+- [Building Apps for Windows IoT Core](https://docs.microsoft.com/en-us/windows/iot-core/develop-your-app/buildingappsforiotcore)
+- [Developing Backround Applications](https://docs.microsoft.com/en-us/windows/iot-core/develop-your-app/backgroundapplications)
+
+
