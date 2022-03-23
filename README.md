@@ -3,7 +3,7 @@ My maiden voyage into programming on my Raspberry Pi 🥧 to create a busy light
 
 ## Status
 
-3/20/2022: Upon further review the library I was going to use to interact with the Blinkt hardware is not complete and won't work. My search for any .NET libraries that interact with the Blinkt hardware (or any Pimoroni hardware) came up with nothing. Thus, I am back to square one which is trying to get the original instruactions working. Right now this repo will lay dormant. Perhaps some day I will have to the time to implement interaction with the Blinkt in .NET or something else will come available. I am bummed because I was excited about being able to improve this busy light over time.
+3/20/2022: Upon further review the library I was going to use to interact with the Blinkt hardware is not complete and won't work. My search for any .NET libraries that interact with the Blinkt hardware (or any Pimoroni hardware) came up with nothing. Thus, I am back to square one which is trying to get the original instruactions working. Right now this repo will lay dormant. Perhaps some day I will have to the time to implement interaction with the Blinkt in .NET or something else will come available. I am bummed because I was excited about being able to improve this busy light over time. At least I learned how to install Windows IoT Core and develop UWP apps for the Pi.
 
 
 ## Motivation
