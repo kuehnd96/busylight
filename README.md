@@ -1,6 +1,11 @@
 # Work From Home Busy Light
 My maiden voyage into programming on my Raspberry Pi 🥧 to create a busy light for working from home
 
+## Status
+
+3/20/2022: Upon further review the library I was going to use to interact with the Blinkt hardware is not complete and won't work. My search for any .NET libraries that interact with the Blinkt hardware (or any Pimoroni hardware) came up with nothing. Thus, I am back to square one which is trying to get the original instruactions working. Right now this repo will lay dormant. Perhaps some day I will have to the time to implement interaction with the Blinkt in .NET or something else will come available. I am bummed because I was excited about being able to improve this busy light over time.
+
+
 ## Motivation
 
 I have been working from home since 2017 and I really enjoy it. I thought it would be nice to have a busy light to signal when I am in a meeting to let my wife and kids know when not to come into my office. I found some great instructions and [code](https://github.com/jimbobbennett/BusyLight/tree/master) by [Jim Bennett](https://github.com/jimbobbennett) but multiple attempts to get the Python code running on my Pi board failed. After searching for .NET code that would work with these instructions turned up nothing I decided to jump into the world of Windows IoT and implement the code for the Raspberry Pi myself.
